@@ -1,0 +1,3 @@
+#! /bin/bash
+ PERSON=Dhanu
+ echo "hi i am ${PERSON}"
